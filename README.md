@@ -18,7 +18,7 @@
 The projects goal is *None* less than changing the world. 
  ##
 ![GitHub Logo](/https://www.discogs.com/release/6705192-Truth-Is-Stranger-Than-Fishin/images )
-![Alt Text](url)
+![Fishin](https://www.discogs.com/release/6705192-Truth-Is-Stranger-Than-Fishin/images)
 
 ##
 
