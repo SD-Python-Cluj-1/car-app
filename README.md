@@ -24,7 +24,7 @@ The projects goal is *None* less than changing the world.
 
 #### Discover the future car.
 ## 
-### Self Drive:
+#### Self Drive:
 
 
 read road
@@ -33,7 +33,7 @@ react
 
 safe
 
- ### Attributes:
+ #### Attributes:
 
 GPS
 
