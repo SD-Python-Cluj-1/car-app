@@ -1,4 +1,4 @@
-class car:
+class Car:
 
 	def __init__(self, name, brand, year):
 		pass
@@ -13,4 +13,4 @@ class car:
 		pass
 
 	def entertainmet(self):
-		pass
+
