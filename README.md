@@ -7,7 +7,12 @@
     CAR-APP V01.16.11.2019
 
 ##
-The projects goal is none less than changing the world. In this revolutionary project The Tribe of The First will help
+The projects goal is none less than changing the world. In this revolutionary project
+ ##
+ ## The Tribe of The First 
+ 
+ 
+ will help
 You to discover future car.
 
 ## 
