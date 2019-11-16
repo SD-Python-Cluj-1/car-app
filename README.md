@@ -1,19 +1,16 @@
-# car-app
-A Python Car App
+The famous 1st Group of SDA Academy proudly presents:
 
-## Self drive
-Read road
-React
-Safe
+                              #              THE CAR-APP Project
 
-## Atribute
-GPS 
+The projects goal is none less than changing the world. In this revolutionary project The Tribe of The First will help
+You to...
 
-USS
+## We have a class, called Car, with the following attributes:
+-attribute1
+-attribute2
+-attribute3
 
-3D CAM
-
-Intercom
-
-Drive
-
+ ## and methods:
+- method 1
+- method 2
+- method 3
