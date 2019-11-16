@@ -3,7 +3,7 @@ The famous 1st Group of SDA Academy proudly presents:
                               #              THE CAR-APP Project
 
 The projects goal is none less than changing the world. In this revolutionary project The Tribe of The First will help
-You to...
+You to discover the future car.
 
 ## We have a class, called Car, with the following attributes:
 -attribute1
