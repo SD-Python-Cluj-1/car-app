@@ -18,6 +18,3 @@ class Car:
 
 	def w_display(self):
 		print(f"Let's see how the weather looks today:\n\n{weather.w_details}") 
-
-car = Car('x', 'y', 'z')
-car.w_display()
