@@ -3,6 +3,8 @@ A Python Car App
 
 ## Self drive
 Read road
+React
+Safe
 
 ## Atribute
 GPS 
