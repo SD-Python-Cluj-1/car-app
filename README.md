@@ -6,9 +6,7 @@
                 
     CAR-APP V01.16.11.2019
 
-##
-The projects goal is none less than changing the world. In this revolutionary project
- ##
+
  ###  *The Tribe of The First* 
  
  
@@ -16,7 +14,9 @@ The projects goal is none less than changing the world. In this revolutionary pr
 >As Kanye West said:
 > We're living the future so
 > the present is our past.
-
+##
+The projects goal is *None* less than changing the world. 
+ ##
 
 ##
 
