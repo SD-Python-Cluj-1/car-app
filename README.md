@@ -9,14 +9,20 @@
 ##
 The projects goal is none less than changing the world. In this revolutionary project
  ##
- ## The Tribe of The First 
+ ###  *The Tribe of The First* 
  
  
- will help
-You to discover future car.
 
+>As Kanye West said:
+> We're living the future so
+> the present is our past.
+
+
+##
+
+#### Discover the future car.
 ## 
-## Self Drive:
+### Self Drive:
 
 
 read road
@@ -25,7 +31,7 @@ react
 
 safe
 
- ## Attributes:
+ ### Attributes:
 
 GPS
 
