@@ -1,5 +1,3 @@
-
-
 The famous 1st Group of SDA Academy proudly presents:
 
                               #              THE CAR-APP Project
