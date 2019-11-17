@@ -1,7 +1,7 @@
 class Car:
     def __init__(self, name, color, wheels):
     	self.name = name
-		self.wheeles = wheeles
+		self.wheels = wheels
 		self.accelerate 
 
 
