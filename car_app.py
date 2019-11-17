@@ -6,7 +6,7 @@ class Car:
 
         def gps(self, location):
             self.geolocator = Nominatim()
-            location = self.geolocator.geocode("175 5th Avenue NYC")
+            location = self.geolocator.geocode("Parcul Operei, Cluj-Napoca")
             print(location.address)
             print((location.latitude, location.longitude))
             return location
